@@ -6,7 +6,7 @@ In this project, I used the embeddable Watson NLP AI libraries to create an emot
 Emotion detection extends the concept of sentiment analysis by extracting the finer emotions, like joy, sadness, anger, and so on, from statements rather than the simple polarity that sentiment analysis provides. This makes emotion detection a very important branch of study and businesses use such systems widely for their AI based recommendation systems, automated chat bots, and so on.
 
 ## Methods
-* Step 1: Fork and clone the project repository
+* Step 1: Fork and clone the project repository, consisting of static and templates folders, LICENSE and .gitignore files
 * Step 2: Create an emotion detection application using Watson NLP library
 * Step 3: Format the output of the application
 * Step 4: Package the application
