@@ -1,4 +1,3 @@
-# Repository for final project
 # Emotion Detector Web App
 ## Introduction
 In this project, I used the embeddable Watson NLP AI libraries to create an emotion detection application.
